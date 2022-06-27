@@ -1,0 +1,29 @@
+
+a:hover{
+  background-color: #EEEEEE;
+
+}
+  body{
+    background-color: #FCF8E8;
+  }
+
+  h1{
+    color: #DF7861;
+    text-shadow: 1px 1px 1px #ECB390,
+                 2px 2px 1px #ECB390;
+  }
+  h3{
+    color: #ECB390;
+    font-style: italic;
+
+
+  }
+
+  hr {
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 3%;
+
+  }
